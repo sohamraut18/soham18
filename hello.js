@@ -5,4 +5,6 @@ for(let i=0;i<44;i++){
 }
 let string = "thus the high guard has risen";
 console.log('string length:', string.length);
-console.log("hola");
+console.log("hola"const prompt = require('prompt-sync')();
+const name = prompt("What is your name? ");
+console.log("Hello, " + name + "!");
